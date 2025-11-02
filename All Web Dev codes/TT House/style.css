@@ -1,0 +1,19 @@
+body {
+    font-family: Arial, sans-serif;
+    text-align: center;
+    padding: 20px;
+}
+.container {
+    max-width: 600px;
+    margin: auto;
+}
+.design {
+    margin-top: 10px;
+    border: 1px solid #ddd;
+    padding: 10px;
+    display: inline-block;
+}
+.design img {
+    max-width: 100%;
+    height: auto;
+}

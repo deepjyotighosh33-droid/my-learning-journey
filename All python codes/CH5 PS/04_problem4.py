@@ -1,0 +1,9 @@
+# seeing length of the below
+
+s = set()
+
+s.add(20)
+s.add(20.0)
+s.add('20')
+
+print(s, len(s))
