@@ -1,3 +1,5 @@
+# Check if the word "twinkle" is present in a text file
+
 f = open("poems.txt")
 
 a = f.read()

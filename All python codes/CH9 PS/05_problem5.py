@@ -1,3 +1,5 @@
+# Replace specific words in a text file with asterisks
+
 with open ("d.txt") as f:
     data = f.read()
     if ("Donkey") in data:

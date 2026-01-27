@@ -1,3 +1,5 @@
+# Create a game that generates a random score between 1 and 40 each time it is played.
+
 import random
 
 def game():

@@ -1,3 +1,5 @@
+# Find the line number of the first occurrence of the word "Python" in a text file. If the word is not found, print "nope".
+
 with open ("log.txt") as f:
     lines = f.readlines()
 
