@@ -16,3 +16,4 @@ DJ.greet()
 DJ.getInfo()
 # Employee.getInfo(DJ) # This is equivalent to the above line
 
+# self is just a convention, you can use any other name in place of self but it is not recommended.
